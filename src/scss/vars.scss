@@ -1,0 +1,34 @@
+
+/* Font sizing, Font family
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+$titleFont : 'arial';
+$bodyFont : 'arial';
+
+$XL_min: 24px;
+$XL_max: 140px;
+
+$h1_min: 24px;
+$h1_max: 100px;
+
+// set on html, body, button
+$min_font: 16px;
+$max_font: 24px;
+
+/* Colors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+$bodyColor_primary: #F2B701;
+$bodyColor_secondary: #FECC2D;
+$bodyColor_tertiary: #FFF;
+
+$fontColor_primary: #FFF;
+$fontColor_secondary: #262628;
+
+/* Responsive 
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+$min_width: 320px;
+$max_width: 1280px;
+
+
