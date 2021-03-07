@@ -6,15 +6,7 @@ It's Space Invaders, but in js. Basic demo currently.
 
 ## Demo
 
-Basic demo up and running here: [Space Invaders](https://psjgit.github.io/Space-invaders-js/)
-
-## To do
-
-* Level plans with difficulty progression
-* Win/lose states
-* Varied enemy ship graphics
-* Score tracking
-* Player lives
+Basic demo up and running here: [Space Invaders](https://psjgit.github.io/space-invaders-js/)
 
 ## Built With
 
