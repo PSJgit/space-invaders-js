@@ -27,7 +27,7 @@
     "url-search-params-polyfill": "^5.0.0",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.1.14",
+    "webpack-dev-server": "^5.0.4",
     "webpack-md5-hash": "0.0.6"
   },
   "dependencies": {
